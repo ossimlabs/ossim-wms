@@ -19,7 +19,7 @@ MESSAGE( STATUS "EXPAT_INCLUDE_DIR = ${EXPAT_INCLUDE_DIR}")
 MESSAGE( STATUS "EXPAT_LIBRARIES   = ${EXPAT_LIBRARIES}")
 
 ################################################## BUILD THE LIBRARY #######################################
-SET(LIB_NAME wms)
+SET(LIB_NAME ossim-wms)
 
 INCLUDE_DIRECTORIES(${${PROJECT_NAME}_SOURCE_DIR}/include)
 INCLUDE_DIRECTORIES(${CURL_INCLUDE_DIR})
