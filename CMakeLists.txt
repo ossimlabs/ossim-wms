@@ -1,4 +1,4 @@
-PROJECT(wms)
+PROJECT(ossim-wms)
 
 INCLUDE(OssimVersion)
 INCLUDE(OssimUtilities)
