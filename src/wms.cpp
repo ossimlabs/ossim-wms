@@ -9,6 +9,7 @@
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
  * libwms Public License for more details.
+ *
 */
 #include <wms/wms.h>
 #include <curl/curl.h>
