@@ -10,8 +10,11 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * libwms Public License for more details.
 */
+
+#if 0
 #ifdef _MSC_VER
 #define snprintf _snprintf
+#endif
 #endif
 
 #include <cstdlib>
